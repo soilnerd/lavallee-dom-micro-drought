@@ -1,6 +1,6 @@
 ###     Code for Lavallee et al. (2023) Land management shapes drought    ###
 ###     responses of dominant soil microbial taxa across grasslands       ###
-setwd("/Users/jocelynlavallee/Library/CloudStorage/Dropbox/2\ Projects\ Manchester/Stability\ field\ experiment/Microbial\ paper/Manuscript\ materials/Nat\ Coms\ Submission/Data\ and\ Code")
+setwd("...")
 
 # Load libraries ----
 library(tidyverse)
