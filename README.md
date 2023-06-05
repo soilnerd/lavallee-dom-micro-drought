@@ -4,7 +4,7 @@ Lavallee et al. (submitted 2023)
 Land management shapes drought responses of dominant soil microbial taxa across grasslands.
 
 To run the analysis, download all of the files to one folder and run 
-Lavallee et al 2023 main code.R 
+Lavallee et al 2023 main code.R \n
 Note: make sure you setwd() to the location on your machine with the files.
 
 Lavallee et al. 2023 Resist Resil code.R is slow and cumbersome (sorry). If the package versions 
