@@ -1,7 +1,6 @@
 # lavallee-2023-dom-micro-drought  
 This repository contains the files and data to run analysis presented in   
-Lavallee et al. (submitted 2023)  
-Land management shapes drought responses of dominant soil microbial taxa across grasslands. Specific data used to create each figure in the main text and supplemental file is also provided in 'Source Data.xlsx'
+Lavallee et al. (submitted 2023), 'Land management shapes drought responses of dominant soil microbial taxa across grasslands'. Specific data used to create each figure in the main text and supplemental file is also provided in 'Source Data.xlsx'
 
 To run the analysis, download all of the files to one folder and run  
 Lavallee et al 2023 main code.R  
