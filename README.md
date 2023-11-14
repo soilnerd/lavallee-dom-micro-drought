@@ -1,4 +1,6 @@
-# lavallee-2023-dom-micro-drought  
+# lavallee-dom-micro-drought  
+DOI: 10.5281/zenodo.10121576
+
 This repository contains the files and data to run analysis presented in   
 Lavallee et al. (submitted 2023), 'Land management shapes drought responses of dominant soil microbial taxa across grasslands'. Specific data used to create each figure in the main text and supplemental file is also provided in 'Source Data.xlsx'
 
@@ -11,3 +13,4 @@ on your machine are different from when the code was originally run, it may resu
 differences in results or errors that prevent the code from running smoothly. I have included  
 the results file that the code originally produced so that the remainder of the analysis can be  
 run using the same results I used. But I have provided the original code so that it can be reviewed.
+
